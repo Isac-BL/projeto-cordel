@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: PassionOne;
-    src: url('fontes/PassionOne-Regular.ttf')
+    src: url('/fontes/PassionOne-Regular.ttf')
     format('truetype');
     font-weight: normal;
     font-style: normal;
 
     font-family: Sriracha;
-    src: url('fontes/Sriracha-Regular.ttf')
+    src: url('/fontes/Sriracha-Regular.ttf')
     format('truetype');
     font-weight: normal;
     font-style: normal;
